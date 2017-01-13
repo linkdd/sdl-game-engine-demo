@@ -1,0 +1,3 @@
+[submodule "lib/sge"]
+	path = lib/sge
+	url = https://github.com/linkdd/sdl-game-engine.git
