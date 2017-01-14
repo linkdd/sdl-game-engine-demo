@@ -1,0 +1,16 @@
+{
+    "spritesheet": {
+        "resource": "rsrc/sprites.png",
+        "width": 24,
+        "height": 32,
+        "spacing": 0
+    },
+    "rate": 3,
+    "nframes": 4,
+    "frames": [
+        [6, 1],
+        [7, 1],
+        [8, 1],
+        [7, 1]
+    ]
+}
